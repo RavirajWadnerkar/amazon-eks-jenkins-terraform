@@ -1,4 +1,5 @@
-# Continuous Intergration on Amazon EKS
+# Continuous Integration on Amazon EKS
+<br />
 <br />
 
 ## Prerequisites
